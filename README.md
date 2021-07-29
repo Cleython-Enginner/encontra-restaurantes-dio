@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Projeto realizado no Labs da Digital Innovation One
+
+### Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
+
 
 ## Available Scripts
 
